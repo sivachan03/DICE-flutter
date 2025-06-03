@@ -1,6 +1,7 @@
 # diceapp
 
 A new Flutter project.
+[Watch Demo Video](video/DICE.mp4)
 
 ## Getting Started
 
